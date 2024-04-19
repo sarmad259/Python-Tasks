@@ -15,6 +15,16 @@ Welcome to the Python Coding Solutions repository! This repository contains a co
 - **Best First Search:** Implementation of Best First Search algorithm for finding the optimal path in graphs.
 - **A* Algorithm:** Implementation of A* algorithm for finding the shortest path in graphs.
 
+## Libraries Used
+- **scikit-learn:** Utilized for implementing machine learning algorithms.
+- **pandas:** Used for data manipulation, cleaning, and preprocessing.
+- **numpy:** Utilized for numerical computations and array manipulation.
+
+## Data Cleaning and Preprocessing
+- **Missing Value Handling:** Techniques for handling missing values in datasets.
+- **Feature Scaling:** Methods for scaling and normalizing features in preparation for machine learning models.
+- **Data Encoding:** Techniques for encoding categorical variables into numerical format.
+
 ## Usage
 Each directory in this repository contains Python scripts related to a specific topic. You can navigate to the respective directory to find the code and related documentation.
 
